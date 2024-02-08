@@ -8,7 +8,7 @@ Eager coder with a passion for innovation and efficiency, seeking a dynamic role
 
 * 🌍  I'm based in Irving, TX
 * ✉️  You can contact me at [manideepshanigaram.sm@gmail.com](mailto:manideepshanigaram.sm@gmail.com)
-* 🧠  I'm learning Spring Boot, React JS, Mongo DB
+* 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Java Spring projects
 
 ### Skills
