@@ -3,12 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Java Developer
 --------------
+With over 4 years of experience as a Java Developer, I bring a wealth of knowledge and expertise to any software development team. My dedication to innovation and efficiency drives me to excel in every project I undertake. I am passionate about leveraging my programming and database management skills to make a significant impact, ensuring the success of each endeavor. 
 
-Eager coder with a passion for innovation and efficiency, seeking a dynamic role in a collaborative software development team. Dedicated to making a substantial impact through my programming and database management skills, while embracing continuous learning and the opportunity to work with cutting-edge technologies.
+I thrive in collaborative environments, where I can contribute my skills and expertise towards achieving common goals. My commitment to continuous learning allows me to stay abreast of the latest advancements in technology, ensuring that I am always ready to tackle new challenges and opportunities. 
 
-* 🌍  I'm based in Irving, TX
-* ✉️  You can contact me at [manideepshanigaram.sm@gmail.com](mailto:manideepshanigaram.sm@gmail.com)
-* 🧠  I'm learning React JS
+* 🌍  I'm based in Irving, TX ( ready to relocate )
+* ✉️  You can contact me at [manideep.valut1@gmail.com](mailto:manideep.valut1@gmail.com)
 * 🤝  I'm open to collaborating on Java Spring projects
 
 ### Skills
