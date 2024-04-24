@@ -20,7 +20,7 @@ I thrive in collaborative environments, where I can contribute my skills and exp
 
 ### My Resume
 <p align="left">
-                      <a href="https://https://docs.google.com/document/d/1xYujv3ter8dSIjKfhUW3g7n3EsdKU1lO/edit?usp=drive_link&ouid=113296264928090506671&rtpof=true&sd=true" target="_blank" rel="noreferrer">
+                      <a href="https://docs.google.com/document/d/1xYujv3ter8dSIjKfhUW3g7n3EsdKU1lO/edit?usp=drive_link&ouid=113296264928090506671&rtpof=true&sd=true" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
