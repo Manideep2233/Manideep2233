@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Java Developer
 --------------
-With over 3 years of experience as a Java Developer, I bring a wealth of knowledge and expertise to any software development team. My dedication to innovation and efficiency drives me to excel in every project I undertake. I am passionate about leveraging my programming and database management skills to make a significant impact, ensuring the success of each endeavor. 
+With over 5+ years of experience as a Java Developer, I bring a wealth of knowledge and expertise to any software development team. My dedication to innovation and efficiency drives me to excel in every project I undertake. I am passionate about leveraging my programming and database management skills to make a significant impact, ensuring the success of each endeavor. 
 
 I thrive in collaborative environments, where I can contribute my skills and expertise towards achieving common goals. My commitment to continuous learning allows me to stay abreast of the latest advancements in technology, ensuring that I am always ready to tackle new challenges and opportunities. 
 
